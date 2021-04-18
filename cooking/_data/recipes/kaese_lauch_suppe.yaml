@@ -1,0 +1,33 @@
+
+image: /assets/images/kaese-lauch-suppe.jpg
+
+ingredients:
+  - item: Porree
+    amount: 500 g
+  - item: Zwiebeln
+    amount: 1
+  - item: Öl
+    amount: 2 EL
+  - item: gemischtes Hackfleisch
+    amount: 200 g
+  - item: Mehl
+    amount: 2 EL
+  - item: Gemüsebrühe
+    amount: 1 l
+  - item: Schmelzkäse
+    amount: 200 g
+  - item: Schlagsahne
+    amount: 100 g
+  - item: Salz
+  - item: Pfeffer
+    
+steps:
+  - Porree putzen, in Ringe schneiden und waschen
+  - Zwiebeln schneiden
+  - Öl in Topf erhitzen und Hack darin anbraten
+  - Mit Salz und Pfeffer würzen und herausnehmen
+  - Porree und Zwiebeln in Bratfett anbraten (ca. 2 Minuten)
+  - Mit Mehl bestäuben und durchrühren
+  - Mit Gemüsebrühe ablöschen, aufkochen lassen und 5 Minuten köcheln lassen
+  - Käse und Sahne einrühren
+  - Hackfleisch zufügen und mit Salz und Pfeffer abschmecken

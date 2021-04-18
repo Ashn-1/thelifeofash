@@ -1,0 +1,29 @@
+
+ingredients:
+  - item: Eier
+    amount: 3
+  - item: Zucker
+    amount: 100 g
+  - item: Butter
+    amount: 100 g
+  - item: Mehl
+    amount: 300 g
+  - item: Backpulver
+    amount: 3 TL
+  - item: Bananen
+    amount: 3
+  - item: Beeren oder Trockenfrüchte
+    amount: 150 g
+  - item: Nüsse
+    amount: 150 g
+    
+steps:
+  - Backofen auf 180°C Ober-/Unterhitze vorheizen
+  - Bananen mit Gabel zerstampfen
+  - Nüsse kleinhacken
+  - Butter mit Zucker verquirlen
+  - Eier dazugeben und verquirlen
+  - Mehl und Backpulver vermischen
+  - Mehlmischung langsam durch ein Sieb in den Teig geben und weiter vermischen zu einer homogenen Masse
+  - Zerstampfte Bananen, Beeren und zerhackte Nüsse unterrühren
+  - Teig in eine Form geben und für 60 Minuten in den Ofen

@@ -1,0 +1,25 @@
+
+ingredients:
+  - item: Spätzle
+    amount: 500 g
+  - item: Schlagsahne
+    amount: 200 ml
+  - item: Emmentaler
+    amount: 100 g
+  - item: Zwiebeln
+    amount: 1
+  - item: Petersilie
+  - item: Butter
+  - item: Salz
+  - item: Pfeffer
+    
+steps:
+  - Zwiebeln klein schneiden
+  - Zwiebeln glasig anbraten
+  - Mit Sahne ablöschen
+  - Petersilie dazu geben
+  - Mit Salz/Pfeffer würzen
+  - Kurz aufkochen lassen und Hälfte des Käse dazu geben
+  - Spätzle unterheben
+  - Alles in eine gefettete Auflaufform geben und mit Käse bedecken
+  - Bei 200°C für 20 Minuten in den Ofen

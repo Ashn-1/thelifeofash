@@ -1,0 +1,21 @@
+
+ingredients:
+  - item: Alle Mengen mit 1 B = 200 g Becher voll
+    amount: +
+  - item: Eier
+    amount: 4
+  - item: Zucker
+    amount: 2 B
+  - item: Öl
+    amount: 1 B
+  - item: Joghurt
+    amount: 1 B
+  - item: Mehl
+    amount: 4 B
+  - item: Backpulver
+    amount: 1 Packung
+    
+steps:
+  - Ofen auf 180°C Ober/-Unterhitze aufheizen
+  - Zutaten alle in eine Schüssel geben und verrühren
+  - Für 60 Minuten backen

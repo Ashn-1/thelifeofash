@@ -1,0 +1,23 @@
+
+ingredients:
+  - item: mariniertes Hähnchenfleisch
+    amount: 500 g
+  - item: Brokkoli
+    amount: 1
+  - item: Reis
+    amount: 2 Tassen
+  - item: Zitronensaft
+    amount: 1
+  - item: Suppenpulver (Gemüse oder Hähnchen)
+  - item: Olivenöl
+  - item: Salz
+  - item: Pfeffer
+    
+steps:
+  - Ofen auf 200 Grad vorheizen (Ober-/Unterhitze)
+  - Reis und Wasser (1 zu 2) in Reiskocher geben mit Suppenpulver
+  - Brokkoli waschen und in Röschen zerteilen
+  - Knoblauch, Olivenöl, Salz und Pfeffer dazu geben und verteilen
+  - Brokkoli auf Backblech verteilen und in den Ofen geben für ~15 Minuten
+  - Hähnchenfleisch marinieren und in Pfanne anbraten
+  - Zitronensaft auf den Brokkoli geben
