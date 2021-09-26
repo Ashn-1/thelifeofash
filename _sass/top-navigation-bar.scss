@@ -3,27 +3,25 @@
 
 /* Top navigation bar */
 .topnavbar {
-    background-color: #5776e6;
+    background-color: var(--primary);
     overflow: hidden;
     position: sticky;
     top: 0;
     left: 0;
     z-index: 999;
     width: 100%;
-    //border-bottom: 3px ridge #d47100;
     box-shadow: 0 3px 3px gray;
 }
 
 /* Style the links inside the navigation bar */
 .topnavbar a {
-    float: left;
     display: block;
-    color: #f2f2f2;
-    text-align: center;
+    float: left;
     padding: 14px 16px;
-    text-decoration: none;
-    font-size: 19px;
     border-radius: 2px;
+    text-align: center;
+    text-decoration: none;
+    color: #f2f2f2;
 }
 
 /* Change the links in the navigation bar on hover */
@@ -35,7 +33,7 @@
 
 /* Active class for the currently selected page */
 .topnavbar a.active {
-    background-color: #d47100;
+    background-color: var(--complementory);
     color: white;
     // border: 3px solid;
     // border-color: #d15400;
@@ -58,9 +56,6 @@
     }
 
     /* Responsive navigation bar on small screens (opens vertically instead of being horizontally) */
-    .topnavbar.responsive {
-        // position: relative;
-    }
     .topnavbar.responsive .hamburger-icon {
         position: absolute;
         right: 0;

@@ -17,7 +17,7 @@ Ash {% include socials.html %}
 
 ## Post Categories
 
-- [Blog posts](/blog/)
+- [Blog posts](/blog/) 
 - [Daily entries](/daily/)
 - [Art](/art/)
 - [Short stories](/story/)
