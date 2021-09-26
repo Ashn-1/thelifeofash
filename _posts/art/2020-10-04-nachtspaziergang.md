@@ -3,8 +3,8 @@ layout: post-poetry
 title: Nachtspaziergang
 date: 2020-10-04 10:00
 author: Ash
-categories: poetry
-tags: [lyrics, poetry]
+categories: art
+tags: [poetry, lyrics]
 ---
 > Sitting there in the cold dark night  
 > Sipping razz and smoking outside  

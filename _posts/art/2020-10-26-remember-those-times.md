@@ -3,8 +3,8 @@ layout: post-poetry
 title: Remember Those Times
 date: 2020-10-26 22:55
 author: Ash
-categories: music
-tags: [lyrics, song, my-music]
+categories: art
+tags: [music, lyrics]
 ---
 
 {% include audio-player.html audio="/assets/res/poetry/2020-10-26-remember-those-times/remember-those-times.mp3" %}

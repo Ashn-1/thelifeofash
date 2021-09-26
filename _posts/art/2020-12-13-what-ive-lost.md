@@ -3,7 +3,7 @@ layout: post-poetry
 title: What I've Lost
 date: 2020-12-13 10:00
 author: Ash
-categories: poetry
+categories: art
 tags: [poetry, lyrics]
 ---
 > Please sit down, ring the bell  

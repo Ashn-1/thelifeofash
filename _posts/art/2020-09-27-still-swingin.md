@@ -3,7 +3,7 @@ layout: post-poetry
 title: Still Swingin'
 date: 2020-09-27 09:00
 author: Ash
-categories: poetry
+categories: art
 tags: [poetry, lyrics]
 ---
 > I'm sitting, down on the bench before  

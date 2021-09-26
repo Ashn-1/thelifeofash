@@ -3,7 +3,7 @@ layout: post-poetry
 title: The Cows and the Bees
 date: 2020-09-06 10:00
 author: Ash
-categories: poetry
+categories: art
 tags: [poetry, lyrics]
 ---
 > There is nothing that I'd rather do  
