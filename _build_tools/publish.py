@@ -9,6 +9,8 @@ import logging
 def publish_changes():
     """Finds all changed files by comparing their MD5 hash value with the hash computed at the last publishing.  
     """
+    raise NotImplementedError("This function is not adapted for the blog")
+
     logging.info("Publishing all changes...")
 
     # Tmp directory to hold all the changed files (used for the scp command)
