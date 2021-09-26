@@ -1,7 +1,14 @@
 
+{% assign category = include.category | default: "all" %}
+
 <div class="post-list">
-    {% for post in site.posts -%}
-        {% if post.categories contains "daily" %}
+    {% if category == "all" %}
+        {% assign filtered-posts = site.posts %}
+    {% else %}
+        {% assign filtered-posts = site.posts | where: "categories", category %}
+    {% endif %}
+
+    {% for post in filtered-posts -%}
 
             <!-- Makes the entire entry clickable with a link to the given post -->
             <a class="post-link" href="{{ post.url }}">
@@ -35,7 +42,5 @@
                 </div>
             
             </a>
-        
-        {% endif %}
     {% endfor -%}
 </div>
