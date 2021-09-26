@@ -1,0 +1,30 @@
+<!-- After the tutorial at https://www.w3schools.com/howto/howto_js_slideshow.asp -->
+<!-- Automatically adds all images with the same name and a number at the end to one slide -->
+
+{% assign image = include.image %}
+{% assign slider_size = include.count %}
+{% assign parent_dir = include.parent %}
+{% assign extension = include.extension | default: "jpg" %}
+{% assign name = "slider-" | append: image %}
+
+<!-- Image slider container -->
+<div class="image-slider-container {{ name }}">
+
+    <!--Individual images-->
+    {% for i in (1..slider_size) %}
+        <div class="image-slider-image image-fade {{ name }}">
+            <img src="{{ parent_dir }}/{{ image }}-{{ i }}.{{ extension }}">
+        </div>
+    {% endfor %}
+
+    <!-- Next and previous buttons -->
+    <a class="image-slider-previous" onClick="plusSlides(&quot;{{name}}&quot;, -1)">&#10094;</a>
+    <a class="image-slider-next" onClick="plusSlides(&quot;{{name}}&quot;, 1)">&#10095;</a>
+
+</div>
+<!-- Dots below the image slider -->
+<div style="text-align: center;">
+    {% for index in (1..slider_size) %}
+        <span class="image-slider-dot {{ name }}" onClick="currentSlide(&quot;{{name}}&quot;, {{index}})"></span>
+    {% endfor %}
+</div>

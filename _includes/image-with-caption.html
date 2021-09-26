@@ -1,0 +1,12 @@
+
+{% if include.parent %}
+    {% assign parent = include.parent | append: "/" %}
+    {% assign link = parent | append: include.image %}
+{% else %}
+    {% assign link = include.image %}
+{% endif %}
+
+<figure>
+    <img src="{{ link }}" alt="{{ include.alt }}">
+    <figcaption>{{ include.caption }}</figcaption>
+</figure>

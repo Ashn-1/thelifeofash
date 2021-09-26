@@ -1,0 +1,28 @@
+<!-- After the tutorial at https://www.w3schools.com/howto/howto_js_slideshow.asp -->
+
+{% assign name = "slider-" | append: include.name %}
+{% assign image_list = include.images | split: "; " %}
+{% assign slider_size = image_list.size %}
+{% assign parent_dir = include.parent %}
+
+<!-- Image slider container -->
+<div class="image-slider-container {{ name }}">
+
+    <!--Individual images-->
+    {% for image in image_list %}
+        <div class="image-slider-image image-fade {{ name }}">
+            <img src="{{ parent_dir }}{{ image }}">
+        </div>
+    {% endfor %}
+
+    <!-- Next and previous buttons -->
+    <a class="image-slider-previous" onClick="plusSlides(&quot;{{name}}&quot;, -1)">&#10094;</a>
+    <a class="image-slider-next" onClick="plusSlides(&quot;{{name}}&quot;, 1)">&#10095;</a>
+
+</div>
+<!-- Dots below the image slider -->
+<div style="text-align: center;">
+    {% for index in (1..slider_size) %}
+        <span class="image-slider-dot {{ name }}" onClick="currentSlide(&quot;{{name}}&quot;, {{index}})"></span>
+    {% endfor %}
+</div>

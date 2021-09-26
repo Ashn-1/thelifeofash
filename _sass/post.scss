@@ -1,0 +1,80 @@
+
+/*
+POST LIST ON MAIN PAGE
+*/
+
+// Entire list of posts
+.post-list {
+    display: flex;
+    flex-direction: column;
+}
+
+// Removes the blue underline from the post entry on hover
+.post-link:hover {
+    border-bottom: none;
+}
+
+// One entry in the list of posts
+.post-entry {
+    display: flex;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    color: black;
+    border-radius: 5px;
+}
+
+// On hover of a single post entry
+.post-entry:hover {
+    background-color: lightgray;
+}
+
+// Left part of the post entry --> category + title
+.post-entry-left {
+    display: flex;
+    margin-right: auto;
+    overflow: hidden;
+}
+
+// Title in the post entry list
+.post-title {
+    margin-left: 5px; 
+    border-bottom: 1px solid rgb(190, 190, 190);
+}
+
+// Publishing date of the post
+.post-date {
+    margin: 0px 5px 0px;
+    color: grey;
+}
+
+/*
+POST PAGE
+*/
+
+// Info under the title of the post
+.post-info {
+    min-width: 20%; 
+    color: grey;
+}
+
+// Style of the content of the post
+.post-content {
+    text-align: justify; 
+    text-justify: auto;
+}
+
+// Override some attributes to better fit mobile devices
+@media screen and (max-width: 480px) {
+    .post-entry {
+        flex-direction: column;
+    }
+
+    .post-info {
+        min-width: 33%;
+    }
+
+    .post-content {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+}

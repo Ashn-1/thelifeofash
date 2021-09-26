@@ -1,0 +1,17 @@
+
+// Vertical table --> first column are the headers
+
+.table-vertical {
+    border-collapse: collapse;
+}
+
+.table-vertical th {
+    border-right: 2px solid black;
+    text-align: right;
+    padding-right: 10px;
+    font-weight: normal;
+}
+
+.table-vertical td {
+    padding-left: 10px
+}

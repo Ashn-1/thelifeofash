@@ -1,0 +1,43 @@
+
+.fa {
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+.fa-bars {
+    padding: 0;
+    margin: 0;
+    border-radius: 0;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+    opacity: 75%;
+}
+
+.fa-twitter:hover {
+    background: #55ACEE;
+    color: white;
+    opacity: 100%;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+    opacity: 75%;
+}
+
+.fa-instagram:hover {
+    background: #125688;
+    color: white;
+    opacity: 100%;
+}

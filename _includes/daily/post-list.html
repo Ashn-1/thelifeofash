@@ -1,0 +1,41 @@
+
+<div class="post-list">
+    {% for post in site.posts -%}
+        {% if post.categories contains "daily" %}
+
+            <!-- Makes the entire entry clickable with a link to the given post -->
+            <a class="post-link" href="{{ post.url }}">
+
+                <!-- Container of one post entry -->
+                <div class="post-entry">
+
+                    <!-- Left part of the entry containing the category and title -->
+                    <div class="post-entry-left">
+                    
+                        <div style="margin: 0px 5px 0px">
+                            {% assign symbol = post.tags[0] | default: "default" -%}
+                            {{ site.data.tag-symbols[symbol] }}
+                        </div>
+                        
+                        <div class="post-title" >
+                            {{ post.title }}
+                        </div>
+                    </div>
+
+                    <div style="display: flex;">
+                        {% assign tag = post.tags[1] -%}
+                        {% include colored-tag.html -%}
+            
+                        <!-- Right part of the entry containing the tag and the date -->
+                        <div class="post-date">
+                            {{ post.date | date: site.data.date-format.full-date }}
+                        </div>
+                    </div>
+                    
+                </div>
+            
+            </a>
+        
+        {% endif %}
+    {% endfor -%}
+</div>
