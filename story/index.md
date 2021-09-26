@@ -18,3 +18,5 @@ active-tab: story
 <!-- POST LIST -->
 
 ### Posts
+
+{% include post-list.html category="story" %}

@@ -32,4 +32,4 @@ Ash {% include socials.html %}
 
 ### Posts
 
-{% include daily/post-list.html %}
+{% include post-list.html category="daily" %}

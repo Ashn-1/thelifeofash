@@ -18,3 +18,5 @@ active-tab: blog
 <!-- POST LIST -->
 
 ### Posts
+
+{% include post-list.html category="blog" %}

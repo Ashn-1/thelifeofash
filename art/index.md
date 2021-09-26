@@ -18,3 +18,5 @@ active-tab: art
 <!-- POST LIST -->
 
 ### Posts
+
+{% include post-list.html category="art" %}
