@@ -6,11 +6,22 @@ import subprocess
 import shutil
 import logging
 
-def publish_changes():
+
+def build_site():
+    """Builds the site with jekyll
+    """
+    logging.info("Building site...")
+    try:
+        subprocess.run("bundle exec jekyll build", check=True, shell=True)
+    except subprocess.CalledProcessError:
+        logging.error("An error occurred when building the site")
+    else:
+        logging.info("Done building the site")
+
+
+def publish_changes(testing=True):
     """Finds all changed files by comparing their MD5 hash value with the hash computed at the last publishing.  
     """
-    raise NotImplementedError("This function is not adapted for the blog")
-
     logging.info("Publishing all changes...")
 
     # Tmp directory to hold all the changed files (used for the scp command)
@@ -51,11 +62,14 @@ def publish_changes():
     else:
         all_files_string = "\n- ".join(update_files.keys())
         logging.info(f"Found {len(update_files)} to upload (either new or modified):\n- {all_files_string}")
+    
+    target_address = "wbwurqmy@thelifeofash.com:/home1/wbwurqmy/public_html"
+    if testing: target_address += "/aperture"
 
     # Upload files and then the hashs
     try:
         logging.info("Uploading files now...")
-        subprocess.run("scp -r _build_tools/to_be_uploaded/* wbwurqmy@thelifeofash.com:/home1/wbwurqmy/public_html/daily", check=True, shell=True)
+        subprocess.run(f"scp -r _build_tools/to_be_uploaded/* {target_address}", check=True, shell=True)
         logging.info("Done uploading")
         logging.info("Updating hash values...")
         current_hashs.update(update_files)
@@ -70,7 +84,8 @@ def publish_changes():
     except subprocess.CalledProcessError:
         logging.error("An error occurred when uploading -->  the update of the files will not be saved")
 
-
+# TODO add commandline argument to publish the changes to the main blog directory
 if __name__ == "__main__":
     logging.basicConfig(format="[%(asctime)s] [%(levelname)8s] --- %(message)s", level=logging.INFO)
+    build_site()
     publish_changes()
