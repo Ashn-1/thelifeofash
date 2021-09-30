@@ -2,10 +2,14 @@
 ---
 
 :root {
-    --primary: #1976D2;
-    --primary-light: #63a4ff;
-    --primary-dark: #004ba0;
-    --complementory: #d27619;
+    --primary: #1f94f3;
+    --primary-light: #6dc4ff;
+    --primary-dark: #0067c0;
+
+    --complementory: #f37e1f;
+
+    --font-color-light: #f2f2f2;
+    --font-color-dark: #000000;
 }
 
 @import "main";
@@ -15,3 +19,4 @@
 @import "image-slider.scss";
 @import "tables.scss";
 @import "top-navigation-bar.scss";
+@import "blog-post-entry.scss";
