@@ -3,8 +3,8 @@ layout: post-blog
 title: Enlightenment or Fame and Fortune?
 date: 2019-11-10 17:19
 author: Ash
-categories: blog
-tags: [travel, semester-abroad, Japan, Tokyo, Daibutsu, Kamakura, Kotoku-in]
+categories: [blog, travel]
+tags: [semester-abroad, Japan, Tokyo, Daibutsu, Kamakura, Kotoku-in]
 ---
 
 This week I had my first work day in Japan, I went on a field trip to Kamakura and also invested a good portion of my time in developing an app.

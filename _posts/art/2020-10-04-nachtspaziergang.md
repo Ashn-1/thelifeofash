@@ -1,5 +1,5 @@
 ---
-layout: post-poetry
+layout: post-art
 title: Nachtspaziergang
 date: 2020-10-04 10:00
 author: Ash

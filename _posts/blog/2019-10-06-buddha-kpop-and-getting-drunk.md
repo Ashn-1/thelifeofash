@@ -3,8 +3,8 @@ layout: post-blog
 title: Buddha, KPop and Getting Drunk
 date: 2019-10-06 12:43
 author: Ash
-categories: blog
-tags: [travel, semester-abroad, Japan, Tokyo]
+categories: [blog, travel]
+tags: [semester-abroad, Japan, Tokyo]
 ---
 It's been one month here in Japan for me. The longer I've been here, the faster the weeks fly by. I guess that's because I am not doing as much as in the first few weeks. Then it was a new part of town or temple to visit, a famous park or a museum to see, beaches to be conquered, shopping trips to be made or other typical touristy stuff to be done. Don't get me wrong, I still got a lot to see and experience here in Japan. However, now that university started and the assignments and the homework roll in on a daily basis, I just don't have as much time left to travel around. The one positive side to this is that I am even more excited for the few trips I have planned for the weekends. That is, if I ever start planning stuff beforehand, like a normal, organized person.
 

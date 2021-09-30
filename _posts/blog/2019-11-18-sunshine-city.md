@@ -3,8 +3,8 @@ layout: post-blog
 title: Sunshine City
 date: 2019-11-18 16:12
 author: Ash
-categories: blog
-tags: [travel, semester-abroad, Japan, Nikko]
+categories: [blog, travel]
+tags: [semester-abroad, Japan, Nikko]
 ---
 
 This week's post is going to be about my day trip to Nikko. In all its glorious coldness, sadness and fucking epicness.

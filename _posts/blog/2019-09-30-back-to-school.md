@@ -3,8 +3,8 @@ layout: post-blog
 title: Back to School
 date: 2019-09-30 10:56
 author: Ash
-categories: blog
-tags: [travel, semester-abroad, Japan, Tokyo]
+categories: [blog, travel]
+tags: [semester-abroad, Japan, Tokyo]
 ---
 
 The lectures in university officially started on Monday the 23rd September. It was a pretty chaotic and busy week, but nevertheless I enjoy being back in university and going to lectures I am actually interested in (looking at you, mandatory statistics courses, no one fucking likes you). This week I am going over all the courses I am going to take in my exchange semester.

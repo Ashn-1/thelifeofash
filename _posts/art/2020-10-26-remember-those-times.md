@@ -1,5 +1,5 @@
 ---
-layout: post-poetry
+layout: post-art
 title: Remember Those Times
 date: 2020-10-26 22:55
 author: Ash

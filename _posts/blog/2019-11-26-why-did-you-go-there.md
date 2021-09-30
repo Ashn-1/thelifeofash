@@ -3,8 +3,8 @@ layout: post-blog
 title: Why did you go THERE
 date: 2019-11-26 18:08
 author: Ash
-categories: blog
-tags: [travel, semester-abroad, hiking, Japan, Matsushima, Sendai, Yamadera]
+categories: [blog, travel]
+tags: [semester-abroad, hiking, Japan, Matsushima, Sendai, Yamadera]
 res-parent: /assets/res/blog/2019-11-26-why-did-you-go-there
 ---
 

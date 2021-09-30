@@ -3,8 +3,8 @@ layout: post-blog
 title: East Coast Beast Coast
 date: 2020-02-02 21:55
 author: Ash
-categories: blog
-tags: [travel, semester-abroad, Japan, Tokyo, Odaiba, Yokohama]
+categories: [blog, travel]
+tags: [Japan, Tokyo, Odaiba, Yokohama, semester-abroad]
 ---
 This week I had my last two work days here in Japan, where I prepared and then held a presentation about my work and the results I achieved. All in all I am very satisfied with the work I could get done in the short amount of time I worked at the company here. Also my boss seemed to be happy with the worked I achieved in that time. He also said that despite his initial concerns about the usefulness of working students before he approved my working student contract, he now fully understood the value that students can bring into the company. I am glad that I could deliver on the expectations of everyone here and I am proud of my accomplishments so far.
 

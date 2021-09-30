@@ -3,7 +3,7 @@ layout: post-blog
 title: Raking in Karma
 date: 2019-12-29 12:35
 author: Ash
-categories: blog
+categories: [blog, life]
 tags: [semester-abroad, Japan, Tokyo]
 ---
 This week was I will report on my field trip helping homeless people and also talk about my experience here during Christmas.

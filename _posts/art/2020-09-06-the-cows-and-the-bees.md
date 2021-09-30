@@ -1,5 +1,5 @@
 ---
-layout: post-poetry
+layout: post-art
 title: The Cows and the Bees
 date: 2020-09-06 10:00
 author: Ash

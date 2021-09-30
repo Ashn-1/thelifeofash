@@ -3,7 +3,7 @@ layout: post-blog
 title: Life Goals
 date: 2019-12-08 15:13
 author: Ash
-categories: blog
+categories: [blog, life]
 tags: [semester-abroad, Japan, Tokyo, life-goals]
 ---
 

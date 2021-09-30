@@ -3,7 +3,7 @@ layout: post-blog
 title: Post Lazy New Active Me - I think
 date: 2019-11-03 13:36
 author: Ash
-categories: blog
+categories: [blog, travel]
 tags: [semester-abroad, Japan, Tokyo, Nikko, Odaiba]
 ---
 

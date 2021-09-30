@@ -3,8 +3,8 @@ layout: post-blog
 title: Humans and Fish
 date: 2019-12-22 07:20
 author: Ash
-categories: blog
-tags: [travel, semester-abroad, hiking, Japan, Tokyo, Takao]
+categories: [blog, travel]
+tags: [semester-abroad, hiking, Japan, Tokyo, Takao]
 ---
 
 After all that motivational nonsense the last two weeks, I'll be continuing with some more Japan this week. This weeks post is going to be about my Mt. Takao trip from two weeks ago and also my visit to the Tsukiji Fish Market.

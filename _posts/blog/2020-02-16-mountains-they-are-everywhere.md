@@ -3,8 +3,8 @@ layout: post-blog
 title: Mountains, they are everywhere
 date: 2020-02-16 11:49
 author: Ash
-categories: blog
-tags: [travel, semester-abroad, hiking, Japan, Kofu, Matsumoto, Nagano]
+categories: [blog, travel]
+tags: [hiking, Japan, Kofu, Matsumoto, Nagano, semester-abroad]
 res-parent: /assets/res/blog/2020-02-16-mountains-they-are-everywhere
 ---
 

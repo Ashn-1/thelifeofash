@@ -3,8 +3,8 @@ layout: post-blog
 title: The Beginning
 date: 2019-09-11 15:29
 author: Ash
-categories: blog
-tags: [travel, semester-abroad, Japan, Tokyo, Shinjuku]
+categories: [blog, travel]
+tags: [Japan, Tokyo, Shinjuku, semester-abroad]
 ---
 
 My first week ever in Japan is over now and I gotta say I'm pretty impressed. The food is absolutely delicious. The people are really friendly. The sheer amount of people in places like Shinjuku and Shibuya (especially the Shibuya crossing) is mind-blowing. The fact that the public transportation always works and is on time is incredible. Especially, because in my hometown there is a problem with the subways every fucking day of the week. Tokyo is an incredible city and there is so much I have to visit and try.

@@ -3,8 +3,8 @@ layout: post-blog
 title: Adventure Time
 date: 2019-09-15 09:22
 author: Ash
-categories: blog
-tags: [travel, semester-abroad, Japan, Tokyo, Akihabara, Kawagoe]
+categories: [blog, travel]
+tags: [Japan, Tokyo, Akihabara, Kawagoe, semester-abroad]
 ---
 
 ## The Aftermath

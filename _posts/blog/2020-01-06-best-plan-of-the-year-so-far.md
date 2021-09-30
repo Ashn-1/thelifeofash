@@ -3,8 +3,8 @@ layout: post-blog
 title: Best Plan of the Year so far
 date: 2020-01-06 13:51
 author: Ash
-categories: blog
-tags: [travel, semester-abroad, Japan, Tokyo]
+categories: [blog, travel]
+tags: [semester-abroad, Japan, Tokyo]
 ---
 
 Wohoo, Happy New Year everyone!!

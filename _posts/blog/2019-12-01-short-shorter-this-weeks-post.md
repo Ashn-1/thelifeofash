@@ -3,7 +3,7 @@ layout: post-blog
 title: Short, Shorter, This Weeks Post
 date: 2019-12-01 13:29
 author: Ash
-categories: blog
+categories: [blog, travel]
 tags: [concert, semester-abroad, Japan, Tokyo]
 ---
 

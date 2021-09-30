@@ -3,8 +3,8 @@ layout: post-blog
 title: The Inevitable
 date: 2020-01-20 15:46
 author: Ash
-categories: blog
-tags: [semester-abroad, Japan, Tokyo]
+categories: [blog, life]
+tags: [Japan, Tokyo, semester-abroad]
 res-parent: /assets/res/blog/2020-01-20-the-inevitable
 ---
 

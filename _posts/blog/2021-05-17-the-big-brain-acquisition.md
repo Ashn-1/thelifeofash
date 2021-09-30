@@ -3,8 +3,8 @@ layout: post-blog
 title: The Big Brain Acquisition
 date: 2021-05-17 20:49
 author: Ash
-categories: blog
-tags: [30-day-challenge]
+categories: [blog, 30-day-challenge]
+tags: [reading, books]
 ---
 
 My challenge for April was to read everyday. What may sound like a relatively easy task to some people, was always something that I had a problem with doing consistently… or doing at all. I’ll go into more detail about where my aversion to reading came from and why I decided to start reading anyway. At the end, I will also talk a little about the books I’ve read and what they were about.

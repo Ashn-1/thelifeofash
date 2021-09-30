@@ -3,8 +3,8 @@ layout: post-blog
 title: Becoming a Buddhist Monk
 date: 2021-04-12 17:31
 author: Ash
-categories: blog
-tags: [30-day-challenge]
+categories: [blog, 30-day-challenge]
+tags: [meditation, mindfulness]
 ---
 This blog post is gonna be about how I found meditation and my March 2021 challenge, where I set myself the goal of doing one meditation session each day.
 <h3 id="the-beginning">The Beginning</h3>

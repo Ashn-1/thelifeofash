@@ -3,8 +3,8 @@ layout: post-blog
 title: Triple Mountain Hike
 date: 2020-02-09 14:45
 author: Ash
-categories: blog
-tags: [travel, semester-abroad, Japan, Tokyo, hiking]
+categories: [blog, travel]
+tags: [Japan, Tokyo, hiking, semester-abroad]
 res-parent: /assets/res/blog/2020-02-09-triple-mountain-hike
 ---
 

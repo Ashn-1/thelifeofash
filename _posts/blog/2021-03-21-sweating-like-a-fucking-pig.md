@@ -3,8 +3,8 @@ layout: post-blog
 title: Sweating Like A Fucking Pig
 date: 2021-03-21 20:26
 author: Ash
-categories: blog
-tags: [30-day-challenge]
+categories: [blog, 30-day-challenge]
+tags: [sport, running]
 ---
 
 Another month, another challenge. February is over and so is the second challenge of the year: building a consistent sport routine. Additionally, I want to say a few more things on decluttering and how I continued to use it as a tool for a more intentional life. And lastly I will introduce the new challenge of March.

@@ -3,8 +3,8 @@ layout: post-blog
 title: My Semester in Japan
 date: 2020-02-24 16:07
 author: Ash
-categories: blog
-tags: [travel, semester-abroad, Japan, Tokyo]
+categories: [blog, travel]
+tags: [Japan, Tokyo, semester-abroad]
 res-parent: /assets/res/blog/2020-02-24-my-semester-in-japan
 ---
 

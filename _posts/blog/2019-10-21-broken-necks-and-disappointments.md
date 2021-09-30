@@ -3,8 +3,8 @@ layout: post-blog
 title: Broken Necks and Disappointments
 date: 2019-10-21 11:24
 author: Ash
-categories: blog
-tags: [travel, semester-abroad, Japan, Tokyo]
+categories: [blog, travel]
+tags: [semester-abroad, Japan, Tokyo]
 ---
 
 ## Music, Dancing and Broken Necks

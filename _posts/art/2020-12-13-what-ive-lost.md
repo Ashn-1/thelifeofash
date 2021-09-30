@@ -1,5 +1,5 @@
 ---
-layout: post-poetry
+layout: post-art
 title: What I've Lost
 date: 2020-12-13 10:00
 author: Ash

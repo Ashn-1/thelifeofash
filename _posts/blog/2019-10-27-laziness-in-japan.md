@@ -3,7 +3,7 @@ layout: post-blog
 title: Laziness in Japan
 date: 2019-10-27 12:23
 author: Ash
-categories: blog
+categories: [blog, travel]
 tags: [semester-abroad, Japan, Tokyo]
 ---
 

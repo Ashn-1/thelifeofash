@@ -3,8 +3,8 @@ layout: post-blog
 title: Calm Before The University Storm
 date: 2019-09-16 14:32
 author: Ash
-categories: blog
-tags: [travel, semester-abroad, Japan, Tokyo, Enoshima]
+categories: [blog, travel]
+tags: [semester-abroad, Japan, Tokyo, Enoshima]
 ---
 
 My third week here in Japan is over now. This is also the last week with no university and just chilling and sightseeing. There is not much I've done this week, or rather I was too lazy to take pictures or write something. Hmm. You know the usual stuff. Still, I'd consider this week an absolute banger of a week. And do you know why? Well let me tell you why:

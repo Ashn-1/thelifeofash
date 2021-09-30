@@ -3,8 +3,8 @@ layout: post-blog
 title: Monthly challenges and Decluttering
 date: 2021-02-05 00:03
 author: Ash
-categories: blog
-tags: [30-day-challenge]
+categories: [blog, 30-day-challenge]
+tags: [decluttering, mindfulness]
 ---
 
 ## Challenges

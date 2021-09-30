@@ -3,8 +3,8 @@ layout: post-blog
 title: Quitting Cold Turkey
 date: 2021-07-05 10:59
 author: Ash
-categories: blog
-tags: [30-day-challenge]
+categories: [blog, 30-day-challenge]
+tags: [vegan]
 ---
 
 My challenge for May was to cut meat and animal products out of my diet and go vegan for the entire month. In this post, I will go over my dietary habits in the past and list some of the reasons someone might go vegan and explain my personal reason as to why I think it is important to cut down on meat and animal product consumption. Then, I will go over how my month being vegan went and finally I will explain how I try to move forward with my diet after May.
