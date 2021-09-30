@@ -16,7 +16,12 @@ layout: compress
         {% feed_meta -%}
     </head>
     <body>
-        {% include top-navigation-bar.html active=page.active-tab %}
+
+        {% if page.collection == "posts" %}
+            {% include top-navigation-bar.html active=layout.active-tab %}
+        {% else %}
+            {% include top-navigation-bar.html active=page.active-tab %}
+        {% endif %}
 
         <div class="website-container" id="website-container">
             <div class="content-container">
