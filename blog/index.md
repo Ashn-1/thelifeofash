@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Daily
 regenerate: true
 active-tab: blog
 ---
@@ -19,4 +18,12 @@ active-tab: blog
 
 ### Posts
 
-{% include post-list.html category="blog" %}
+{% assign filtered-posts = site.posts | where: "categories", "blog" %}
+
+{% for post in filtered-posts %}
+
+    {% assign category = post.categories[1] %}
+
+    {% include blog-post-entry.html post=post %}
+        
+{% endfor -%}
