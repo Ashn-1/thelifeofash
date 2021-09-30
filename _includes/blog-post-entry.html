@@ -1,0 +1,23 @@
+
+<div class="blog-post-entry">
+
+    <div class="header">
+        
+        <div class="header-row">
+            <div class="title">{{ post.title }}</div>
+            <div class="category">{{ post.categories[1] }}</div>
+        </div>
+        
+        <div class="tags">
+            <span style="font-weight: bold">Tags:</span> {{ post.tags | join: ", " }}
+        </div>
+
+    </div>
+
+    <div class="excerpt">
+        {{ post.excerpt }}
+    </div>
+
+    <a href="{{ post.url }}">Read more</a>
+
+</div>

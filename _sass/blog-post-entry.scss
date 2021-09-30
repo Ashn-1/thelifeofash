@@ -1,0 +1,32 @@
+
+.blog-post-entry {
+    background-color: lightgray;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.blog-post-entry .header {
+    display: flex;
+    flex-direction: column;
+}
+
+.blog-post-entry .header .header-row {
+    display: flex;
+}
+
+.blog-post-entry .header .header-row .title {
+    flex-grow: 7;
+    align-self: flex-start;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.blog-post-entry .header .header-row .category {
+    flex-grow: 3;
+    align-self: flex-end;
+    text-align: right;
+}
+
+.blog-post-entry .header .tags {
+    
+}
