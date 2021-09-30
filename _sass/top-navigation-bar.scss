@@ -3,14 +3,14 @@
 
 /* Top navigation bar */
 .topnavbar {
-    background-color: var(--primary);
     overflow: hidden;
     position: sticky;
+    background-color: var(--primary);
+    box-shadow: 0 3px 3px gray;
     top: 0;
     left: 0;
     z-index: 999;
     width: 100%;
-    box-shadow: 0 3px 3px gray;
 }
 
 /* Style the links inside the navigation bar */
@@ -21,22 +21,22 @@
     border-radius: 2px;
     text-align: center;
     text-decoration: none;
-    color: #f2f2f2;
+    color: var(--font-color-dark);
 }
 
 /* Change the links in the navigation bar on hover */
 .topnavbar a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: var(--primary-dark);
+    box-shadow: 0 0 3px var(--primary-dark);
+    color: var(--font-color-light);
     border-bottom: 0;
 }
 
 /* Active class for the currently selected page */
 .topnavbar a.active {
     background-color: var(--complementory);
-    color: white;
-    // border: 3px solid;
-    // border-color: #d15400;
+    color: var(--font-color-dark);
+    box-shadow: 0 0 3px var(--complementory);
 }
 
 /* Hide the hamburger icon, when not on mobile or small screen */
@@ -50,17 +50,24 @@
     .topnavbar a:not(:first-child) { 
         display: none;  
     }
-    .topnavbar a.hamburger-icon {
+    
+    .topnavbar button.hamburger-icon {
         float: right;
-        display: block;
-    }
-
-    /* Responsive navigation bar on small screens (opens vertically instead of being horizontally) */
-    .topnavbar.responsive .hamburger-icon {
+        display: flex;
         position: absolute;
         right: 0;
         top: 0;
+        height: 100%;
+        color: var(--font-color-light);
+        padding: 5%;
+        background-color: var(--primary-dark);
+        box-shadow: -3px 0 3px var(--primary-dark);
     }
+    
+    .topnavbar .hamburger-icon .fa-bars {
+        align-self: center;
+    }
+
     .topnavbar.responsive a {
         float: none;
         display: block;
