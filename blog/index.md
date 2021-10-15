@@ -4,19 +4,7 @@ regenerate: true
 active-tab: blog
 ---
 
-# Blog
-
----
-
-<!-- LEGEND -->
-
-### Legend
-
----
-
-<!-- POST LIST -->
-
-### Posts
+# Blog Posts
 
 {% assign filtered-posts = site.posts | where: "categories", "blog" %}
 
