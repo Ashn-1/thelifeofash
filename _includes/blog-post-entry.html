@@ -1,10 +1,10 @@
 
 <div class="blog-post-entry">
 
-    <div class="header">
+    <a class="header" href="{{ post.url }}">
         
         <div class="header-row">
-            <div class="title">{{ post.title }}</div>
+            <div class="title"><span>{{ post.title }}</span></div>
             <div class="category">{{ post.categories[1] }}</div>
         </div>
         
@@ -12,12 +12,16 @@
             <span style="font-weight: bold">Tags:</span> {{ post.tags | join: ", " }}
         </div>
 
-    </div>
+    </a>
+
+    <hr>
 
     <div class="excerpt">
         {{ post.excerpt }}
     </div>
 
-    <a href="{{ post.url }}">Read more</a>
+    <div class="read-more-container">
+        <a class="read-more" href="{{ post.url }}">Read more</a>
+    </div>
 
 </div>
