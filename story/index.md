@@ -5,18 +5,14 @@ regenerate: true
 active-tab: story
 ---
 
-# Story
+# Stories
 
----
+{% assign filtered-posts = site.posts | where: "categories", "story" %}
 
-<!-- LEGEND -->
+{% for post in filtered-posts %}
 
-### Legend
+    {% assign category = post.categories[1] %}
 
----
-
-<!-- POST LIST -->
-
-### Posts
-
-{% include post-list.html category="story" %}
+    {% include blog-post-entry.html post=post %}
+        
+{% endfor -%}
