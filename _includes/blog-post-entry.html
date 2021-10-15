@@ -1,18 +1,20 @@
 
 <div class="blog-post-entry">
 
-    <a class="header" href="{{ post.url }}">
-        
+    <div class="header">
+
         <div class="header-row">
-            <div class="title"><span>{{ post.title }}</span></div>
+            <a class="title" href="{{ post.url }}">
+                <span>{{ post.title }}</span>
+            </a>
+            <div class="empty-space">&nbsp;</div>
             <div class="category">{{ post.categories[1] }}</div>
-        </div>
+        </div>   
         
         <div class="tags">
             <span style="font-weight: bold">Tags:</span> {{ post.tags | join: ", " }}
         </div>
-
-    </a>
+    </div>
 
     <hr>
 
@@ -23,5 +25,4 @@
     <div class="read-more-container">
         <a class="read-more" href="{{ post.url }}">Read more</a>
     </div>
-
 </div>
