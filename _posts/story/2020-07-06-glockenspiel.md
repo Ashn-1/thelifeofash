@@ -3,8 +3,8 @@ layout: post-story
 title: Glockenspiel
 date: 2020-07-06 09:06
 author: Ash
-categories: story
-tags: [Penny, short-story]
+categories: short-story
+tags: [Penny]
 ---
 
 It's a sunny Friday afternoon. The only class present during the 6th period on this day is the class 3A attending their music lesson. The only person more annoyed than the students about this absurd time slot for a subject this unimportant is the teacher. Mrs. Belone, who is technically not a trained music teacher, had to teach the music lesson for the class 3A this year, because there was a shortage of music teachers in the elementary school. Her being forced to teach a subject she neither knows about nor values as important, in addition to the late school period, makes her overly strict and obnoxious towards the students.
