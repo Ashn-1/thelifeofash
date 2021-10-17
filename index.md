@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# the Life of Ash
+# thelifeofash
 
 Hey there,
 
