@@ -11,8 +11,10 @@
             <div class="category">{{ post.categories[1] }}</div>
         </div>   
         
-        <div class="tags">
-            <span style="font-weight: bold">Tags:</span> {{ post.tags | join: ", " }}
+        <div class="header-row">
+            <span style="font-weight: bold">Tags:</span>&nbsp;{{ post.tags | join: ", " }}
+            <div class="empty-space">&nbsp;</div>
+            <div class="date">{{ post.date | date: site.data.date-format.full-date }}</div>
         </div>
     </div>
 

@@ -31,6 +31,11 @@
     text-align: right;
 }
 
+.blog-post-entry .header .header-row .date {
+    align-self: flex-end;
+    text-align: right;
+}
+
 .blog-post-entry .read-more-container {
     display: flex;
     justify-content: center;
