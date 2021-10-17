@@ -1,0 +1,28 @@
+
+.sidebar {
+    position: -webkit-sticky; // For Safari
+    position: sticky;
+    width: 160px;
+    height: 100%;
+    z-index: 1;
+    top: 80px;
+    right: 0;
+    background-color: #ebebeb;
+    overflow-x: hidden;
+    margin-left: 20px;
+}
+
+.sidebar .sidebar-item{
+    padding: 8px 16px;
+    float: left;
+    width: auto;
+    border: none;
+    display: block;
+    outline: 0;
+}
+
+@media screen and (max-width: 480px) {
+    .sidebar {
+        display: none;
+    }
+}

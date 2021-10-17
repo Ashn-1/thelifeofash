@@ -17,15 +17,28 @@ layout: compress
     </head>
     <body>
 
+        <!-- Top Navigation Bar -->
         {% if page.collection == "posts" %}
             {% include top-navigation-bar.html active=layout.active-tab %}
         {% else %}
             {% include top-navigation-bar.html active=page.active-tab %}
         {% endif %}
 
-        <div class="website-container" id="website-container">
+
+        <div class="website-container">
+
+            <!-- Website Content -->
             <div class="content-container">
                 {{ content }}
+            </div>
+
+            <!-- Side Navigation Bar -->
+            <div class="sidebar">
+                <h3 class="sidebar-item">Dailies</h3>
+                <a href="#" class="sidebar-item w3-button">Link 1</a>
+                <a href="#" class="sidebar-item w3-button">Link 2</a>
+                <a href="#" class="sidebar-item w3-button">Link 3</a>
+                <a href="#" class="sidebar-item w3-button">Link 4</a>
             </div>
         </div>
     </body>
