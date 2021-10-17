@@ -1,12 +1,4 @@
 
-.blog-post-entry {
-    background-color: #eee;
-    margin-top: 20px;
-    padding: 10px;
-    border-radius: 5px;
-    box-shadow: 0 0 3px gray;
-}
-
 .blog-post-entry .header .header-row {
     display: flex;
 }
@@ -23,7 +15,7 @@
 }
 
 .blog-post-entry .header .header-row .title span {
-    border-bottom: 1px solid rgb(190, 190, 190);
+    border-bottom: 1px solid #bfbfbf;
 }
 
 .blog-post-entry .header .header-row a.title:hover {

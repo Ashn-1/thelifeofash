@@ -51,7 +51,7 @@ figcaption {
 
 // Contains the website itself
 // Contains parent styles for all elements
-.website-container {
+.viewport {
     display: flex;
     justify-content: center;
     box-sizing: border-box;
@@ -59,7 +59,7 @@ figcaption {
 }
 
 // On desktop the middle part containing the content of the website
-.content-container {
+.website-container {
     width: 800px;
     max-width: 100%;
 }
@@ -71,4 +71,26 @@ figcaption {
     height: 90%;
     align-self: center;
     border-radius: 5px;
+}
+
+.content-box {
+    background-color: #eee;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 3px gray;
+}
+
+a.sidebar-link {
+    color: var(--font-color-dark);
+    text-decoration: none;
+    border-bottom: 0;
+}
+
+a.sidebar-link:hover {
+    color: var(--primary-dark);
+}
+
+a.sidebar-link span {
+    border-bottom: 1px solid #bfbfbf;
 }

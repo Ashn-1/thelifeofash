@@ -2,7 +2,7 @@
 .sidebar {
     position: -webkit-sticky; // For Safari
     position: sticky;
-    width: 160px;
+    width: 200px;
     height: 100%;
     z-index: 1;
     top: 80px;
@@ -12,13 +12,17 @@
     margin-left: 20px;
 }
 
-.sidebar .sidebar-item{
-    padding: 8px 16px;
+.sidebar h3 {
+    margin-top: 10px;
+}
+
+.sidebar .sidebar-item {
+    padding-top: 10px;
+    padding-bottom: 10px;
     float: left;
     width: auto;
-    border: none;
     display: block;
-    outline: 0;
+    font-size: 14px;
 }
 
 @media screen and (max-width: 480px) {
