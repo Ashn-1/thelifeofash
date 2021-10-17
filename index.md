@@ -18,9 +18,9 @@ Ash {% include socials.html %}
 ## Post Categories
 
 - <a class="grey-link" href="/blog/"><span style="font-weight: bold;">Blog Post;</span></a> longer, more in-depth posts about a specific topic
+- <a class="grey-link" href="/story/"><span style="font-weight: bold;">Stories;</span></a> fictional stories
 - <a class="grey-link" href="/daily/"><span style="font-weight: bold;">Daily Entries;</span></a> short, braindumpy entries about something out of my life
 - <a class="grey-link" href="/art/"><span style="font-weight: bold;">Art;</span></a> poetry, music, drawings, and all other things artsy
-- <a class="grey-link" href="/story/"><span style="font-weight: bold;">Stories;</span></a> fictional stories
 
 ---
 
