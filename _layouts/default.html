@@ -34,11 +34,15 @@ layout: compress
 
             <!-- Side Navigation Bar -->
             <div class="sidebar">
-                <h3 class="sidebar-item">Dailies</h3>
-                <a href="#" class="sidebar-item w3-button">Link 1</a>
-                <a href="#" class="sidebar-item w3-button">Link 2</a>
-                <a href="#" class="sidebar-item w3-button">Link 3</a>
-                <a href="#" class="sidebar-item w3-button">Link 4</a>
+                <h3 class="sidebar-item">Dailies + Art</h3>
+
+                {% assign daily_posts = site.posts | where: "categories", "daily" %}
+                {% assign art_posts = site.posts | where: "categories", "art" %}
+                {% assign sidebar_posts = daily_posts | concat: art_posts %}
+
+                {% for post in sidebar_posts limit:10 %}
+                    <a href="{{ post.url }}" class="sidebar-item">{{ post.title }}</a>
+                {% endfor %}
             </div>
         </div>
     </body>
