@@ -3,7 +3,7 @@ layout: post-story
 title: Glockenspiel
 date: 2020-07-06 09:06
 author: Ash
-categories: short-story
+categories: [story, short-story]
 tags: [Penny]
 ---
 
