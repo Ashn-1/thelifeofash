@@ -81,16 +81,16 @@ figcaption {
     box-shadow: 0 0 3px gray;
 }
 
-a.sidebar-link {
+a.grey-link {
     color: var(--font-color-dark);
     text-decoration: none;
     border-bottom: 0;
 }
 
-a.sidebar-link:hover {
+a.grey-link:hover {
     color: var(--primary-dark);
 }
 
-a.sidebar-link span {
+a.grey-link span {
     border-bottom: 1px solid #bfbfbf;
 }
