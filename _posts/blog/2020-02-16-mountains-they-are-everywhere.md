@@ -10,6 +10,8 @@ res-parent: /assets/res/blog/2020-02-16-mountains-they-are-everywhere
 
 This was is, my last week living in Japan. At least for now. I bought souvenirs and other stuff I want to take home from Japan, finished all bureaucracy concerning me moving out of Japan and canceled my data plan and my bank account. I also met with some friends here for the, at least in the near future, last time and said my goodbyes to all the friends I made here. I also did a spontaneous trip to Nagano prefecture with some dorm mates over the weekend, which will be the main talking point of this weeks blog post. Here we go...
 
+<!-- more -->
+
 ## 長野 - Nagano
 
 The weekend trip to Nagano prefecture started Friday night with a night bus bound towards the city of Nagano. The seats in the bus were surprisingly spacious and so the ride was pretty comfortable. Unfortunately, I couldn't sleep until about 2:30 am. I had a lot of things on my mind and so I couldn't really sleep. Just kidding, I drank so much coffee over the day that I could hear the caffeine whisper 'Ain't gonna happen bro' into my ear, when I tried to sleep.

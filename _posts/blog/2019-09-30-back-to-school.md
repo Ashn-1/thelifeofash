@@ -9,6 +9,8 @@ tags: [semester-abroad, Japan, Tokyo]
 
 The lectures in university officially started on Monday the 23rd September. It was a pretty chaotic and busy week, but nevertheless I enjoy being back in university and going to lectures I am actually interested in (looking at you, mandatory statistics courses, no one fucking likes you). This week I am going over all the courses I am going to take in my exchange semester.
 
+<!-- more -->
+
 ## Language Courses
 
 I have in total 3 language courses: Essential Japanese, Spoken Communication and Written Communication. In this case, the latter two are mainly just practice classes for the former one, where we learn new grammar and vocabulary. We are using the same Japanese textbook here as I did back at home making the transition of learning Japanese back at home and learning Japanese in Tokyo smoother. The class here starts at a slightly higher level then I currently am, however I am easily gonna catch up to the current lesson (at least that is what I tell myself since three weeks without doing anything...the classic).

@@ -7,6 +7,8 @@ categories: [blog, travel]
 tags: [semester-abroad, Japan, Tokyo]
 ---
 
+<!-- more -->
+
 ## Being a Lazy Slob in Tokyo
 
 This week was the epitome of my laziness in my two months here in Japan. I did exactly nothing interesting. I went to university, visited my courses, did my homework, went back home and watched YouTube, Animes and played video games. The whole fucking week. Damn...

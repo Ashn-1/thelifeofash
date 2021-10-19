@@ -7,6 +7,8 @@ categories: [blog, 30-day-challenge]
 tags: [decluttering, mindfulness]
 ---
 
+<!-- more -->
+
 ## Challenges
 
 For this year I've decided to do a new challenge every month. This idea is inspired by Matt D'Avella's [30 Day Challenges](https://www.youtube.com/watch?v=4D0HRrl2P1o&amp;list=PLXKuahfdkl6zkBULJhEMNy_RnErOYXwJk) that he did in 2019. I may or may not get inspired further by him and do some of his challenges. However, my main focus is on things I can challenge myself to do everyday that I think could have a positive impact on my life.

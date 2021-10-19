@@ -9,6 +9,8 @@ tags: [semester-abroad, hiking, Japan, Tokyo, Takao]
 
 After all that motivational nonsense the last two weeks, I'll be continuing with some more Japan this week. This weeks post is going to be about my Mt. Takao trip from two weeks ago and also my visit to the Tsukiji Fish Market.
 
+<!-- more -->
+
 ## Takao-san
 
 Mt. Takao is located to the west of Tokyo. It is a very popular destination for tourists and also Japanese families for weekend trips. The main reason for that is the view of Tokyo from the top of the mountain. You can see a large part of the whole metropolitan area of Tokyo and, if you're lucky, also Mt. Fuji. Well, I wasn't so lucky and where Mt. Fuji should have been, there was only fog to see. Maybe Fuji and me are not meant to be...

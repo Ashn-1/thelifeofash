@@ -10,6 +10,8 @@ res-parent: /assets/res/blog/2019-11-26-why-did-you-go-there
 
 When tourists come to Japan, they usually take the Golden Route to see the major tourist spots of Japan. This includes Tokyo, Kyoto and everything noteworthy in between. So naturally, during our week off from university, some of the other exchange students went to the Kansai region and visited the big major tourist cities there: Osaka, Kyoto and Nara. I also wanted to travel around during my week off and I didn't go to the Kansai region either until now. So of course I did the only logical thing and booked a hotel and a nightbus and  off I went... towards the exact opposite direction: Sendai.
 
+<!-- more -->
+
 Sendai is the biggest city of the Tohoku region, the northern part of the main island of Japan. Nevertheless, not a lot of tourists come here compared to other parts of Japan. Maybe because its colder here, or there aren't that many sightseeing spots here, or its far of the normal way of traveling in Japan. In any case, I, being a passionate swim-against-the-current-just-because guy, decided to spend my week off university in a region no one normally goes to. I mean, every single person I told I'm going to Sendai, looked at me in disbelief and asked why exactly I chose to go there. To be honest, I didn't really have a proper answer to that question and I mainly just pulled random arguments out of my ass.
 
 So I booked three nights in a hotel and a nightbus to get to Sendai and back. So here it goes, buckle up buddy 'cause this is gonna be a long one.

@@ -9,6 +9,8 @@ tags: [vegan]
 
 My challenge for May was to cut meat and animal products out of my diet and go vegan for the entire month. In this post, I will go over my dietary habits in the past and list some of the reasons someone might go vegan and explain my personal reason as to why I think it is important to cut down on meat and animal product consumption. Then, I will go over how my month being vegan went and finally I will explain how I try to move forward with my diet after May.
 
+<!-- more -->
+
 ## Meat Everyday
 
 As for most people with non-vegetarian parents, meat was part of every meal we had, when I was living with my parents. From time to time we had some dishes that actually did not contain meat, but that was pretty rare and usually you had meat in another form that day anyway. As a result, I did not really know many non-meat recipes. When I started to live on my own, I started to meal prep a lot and the two main meals I made, were chicken with broccoli and spaghetti bolognese. So, as a result, I had at least one portion of meat everyday.

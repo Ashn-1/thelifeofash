@@ -10,6 +10,8 @@ res-parent: /assets/res/blog/2020-02-24-my-semester-in-japan
 
 I am back home. What a fun and exciting week this was. I arrived in Germany on Wednesday and was promptly greeted by a non-functioning escalator and a water tap that did not work at the Munich Airport. I just felt at home seeing that nothing changed here. First thing I did after getting my luggage was grabbing the car keys from my brother and declaring that I am gonna drive us home. Of course, my brother and my two friends, who also surprise visited me at the airport, were stoked to get driven by me and definitely didn't pray to god to save them from this death trap of an experience.
 
+<!-- more -->
+
 With two hours of sleep and an exhausting 13 h flight back home, I of course just relaxed for the rest of the day and went to sleep early to get back on track the next day. Just kidding, I stuffed myself with delivery pizza and went drinking with friends the same evening. Sleep and rest is something for responsible and boring adults. The next day I also met with other friends and did some catching up. On Saturday I also did a little party with everyone. They surprised me with a gigantic, Smarties filled cake. It was amazing. I may or may not have forgotten to take a picture of the cake. Whoops. Back to old habits I guess. Man, I'm just so happy to be back and I'm actually pretty excited when it comes to the future.
 
 For my last Japan post, I thought about doing a recap of my favorite trips, the things I'm gonna miss from Japan and the things that I will definitely not miss and also my general experience of living in Japan for six months.

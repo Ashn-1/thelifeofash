@@ -6,7 +6,10 @@ author: Ash
 categories: [blog, life]
 tags: [semester-abroad, Japan, Tokyo]
 ---
+
 This week was I will report on my field trip helping homeless people and also talk about my experience here during Christmas.
+
+<!-- more -->
 
 ## ひとさじの会 - Helping Those in Need
 

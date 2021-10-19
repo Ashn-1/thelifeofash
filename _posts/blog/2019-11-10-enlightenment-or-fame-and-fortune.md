@@ -9,6 +9,8 @@ tags: [semester-abroad, Japan, Tokyo, Daibutsu, Kamakura, Kotoku-in]
 
 This week I had my first work day in Japan, I went on a field trip to Kamakura and also invested a good portion of my time in developing an app.
 
+<!-- more -->
+
 ## Bringing Home the Bacon #2
 
 I had my first work day this week. The office I'm working at is on the 21st floor of an office building. We've got an amazing view over the skyscrapers of the office district. Unfortunately, I kinda missed to take picture to show it here. Please don't hate me, I swear to those super-sour gummibears I love so much that I'm gonna deliver those pics next week. Anyway, when I got in the office the first time and sat down at my table, people were kind of confused and stared at me. Probably because I am one of the two foreigners in the office. Maybe it was also because I wore a red shirt, while everyone else had their plain white, black or beige colored shirt on. I guess I'm the complete opposite of low-key. Oh well...

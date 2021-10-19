@@ -9,6 +9,8 @@ tags: [Japan, Tokyo, Shinjuku, semester-abroad]
 
 My first week ever in Japan is over now and I gotta say I'm pretty impressed. The food is absolutely delicious. The people are really friendly. The sheer amount of people in places like Shinjuku and Shibuya (especially the Shibuya crossing) is mind-blowing. The fact that the public transportation always works and is on time is incredible. Especially, because in my hometown there is a problem with the subways every fucking day of the week. Tokyo is an incredible city and there is so much I have to visit and try.
 
+<!-- more -->
+
 ## Shinjuku
 
 My first trip in Tokyo took me to Shinjuku. It is exactly as full of people here, as you would expect it in inner Tokyo. You can barely walk straight ahead of you because of all the people. You often see these streets with their unending number of neon lights in movies. This place is big, colorful and really impressive. Shinjuku should be ideally visited in the late evening or night, as the bright signs of every store illuminate the night and create a really beautiful scenery.

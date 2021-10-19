@@ -9,6 +9,8 @@ tags: [reading, books]
 
 My challenge for April was to read everyday. What may sound like a relatively easy task to some people, was always something that I had a problem with doing consistently… or doing at all. I’ll go into more detail about where my aversion to reading came from and why I decided to start reading anyway. At the end, I will also talk a little about the books I’ve read and what they were about.
 
+<!-- more -->
+
 ## You should read more!
 
 Reading is something I never really got into; not that I ever gave reading a fair chance. Though I have to say that the odds were always stacked against reading as a hobby for me. Back when I was in school, pretty much from elementary school on, I always had mediocre or bad grades in my German class. I just wasn’t interested in learning how to write fake fan letters to journalists discussing any of their stories I didn’t even read or discussing the morals of a book that is so old not even lightbulbs existed back then.

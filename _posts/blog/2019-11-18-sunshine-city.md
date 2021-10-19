@@ -8,7 +8,10 @@ tags: [semester-abroad, Japan, Nikko]
 ---
 
 This week's post is going to be about my day trip to Nikko. In all its glorious coldness, sadness and fucking epicness.
+
 Let's Roll!
+
+<!-- more -->
 
 ## What's that sleep thing you're talking about?
 

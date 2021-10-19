@@ -10,6 +10,8 @@ res-parent: /assets/res/blog/2020-01-20-the-inevitable
 
 On January 17th 2020 I laid in my death bed, talking to a stranger about my life. Ten minutes later I died and a monk held my funeral...
 
+<!-- more -->
+
 ## 旅立ち - The Departure
 
 I attended a workshop on Friday called 'The Departure'. It was held by Rev. Jotetsu Nemoto a Zen Buddhist monk from Gifu prefecture here in Japan. The workshop forces you to confront your own mortality. It consisted of five steps: meditation, creating a vision board, the process of dying, your last word with a stranger and lastly your death.

@@ -9,6 +9,8 @@ tags: [semester-abroad, Japan, Tokyo, Enoshima]
 
 My third week here in Japan is over now. This is also the last week with no university and just chilling and sightseeing. There is not much I've done this week, or rather I was too lazy to take pictures or write something. Hmm. You know the usual stuff. Still, I'd consider this week an absolute banger of a week. And do you know why? Well let me tell you why:
 
+<!-- more -->
+
 ## The most important thing to do when visiting a new place is ...
 
 ...visiting the local kebap store. I made it a tradition for myself to always eat a kebap in city's I'm visiting the first time. And because this is my first time ever in Japan, this one was especially important. I jokingly non-jokingly say that I'm gonna rate the whole visit to the city by how the kebap tastes and this time was no different. And I gotta say, this thing was nothing like what I'm used to from a kebap back home. The bread and the meat are different, there are barely any vegetables on it and the fact they also sell Bubble Tea at the kebap store makes this whole thing a culture shock I was not prepared for. However, I gotta say: this thing is fucking amazing. It actually tastes better than 90% of all kebap stores in Munich. Well that's more on the kebap stores in Munich, because except for a few ones they are all just hot garbage. The price here is a little high with 500 Yen (~4.20€), but still reasonable. All in all this thing, kebap or not, is really good and I'm definitely gonna eat it more often.

@@ -9,6 +9,8 @@ tags: [sport, running]
 
 Another month, another challenge. February is over and so is the second challenge of the year: building a consistent sport routine. Additionally, I want to say a few more things on decluttering and how I continued to use it as a tool for a more intentional life. And lastly I will introduce the new challenge of March.
 
+<!-- more -->
+
 ## Intentional Living
 
 After [throwing away]({% post_url blog/2021-02-05-monthly-challenges-and-decluttering %}) what felt like 90% of my belongings including a lot of my souvenirs and what I perceived as sentimental items, I must say that I don't really miss any of those things. And I didn't just stop with decluttering after January, I continued to sift through my belongings and I found more stuff that was unnecessarily taking up space. I also sorted through and reorganized some of the cupboards in my kitchen. Now I can actually find the stuff I'm searching for and don't get lost in my own kitchen. I also found a lot of items that I thought about buying because I thought we didn't have them. Well, now that I found them I saved myself some money. Yayy!

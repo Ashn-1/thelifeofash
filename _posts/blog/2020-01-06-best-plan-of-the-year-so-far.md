@@ -11,6 +11,8 @@ Wohoo, Happy New Year everyone!!
 
 Except for New Years Eve, this week was pretty uneventful. I was free from university and work and basically just focused on writing all the essays for my courses and studying for the exams. Well, I tried. As is tradition every year around this time, I wanted to do so much for university and did basically nothing. Gotta love them traditions.
 
+<!-- more -->
+
 ## Nighttime Hiking
 
 I planned my New Years Eve together with some dorm mates. The plan was pretty straightforward:

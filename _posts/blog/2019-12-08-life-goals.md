@@ -9,6 +9,8 @@ tags: [semester-abroad, Japan, Tokyo, life-goals]
 
 This weeks blog post is gonna be a little different. I had a day trip this week to Mt Takao hiking up the mountain and having a gorgeous view of the whole city of Tokyo. However, I'm gonna do the recap for that trip with all the pictures I've took next week. This week I'd rather talk about something else. It's gonna be more of a personal story about motivation, discipline and dreams.
 
+<!-- more -->
+
 ## Life Goals
 
 The ever recurring theme of laziness. The time when you just want to stay in your room, lay in your bed and do nothing except watching Netflix or YouTube all day long. I even wrote a [blog post]({% post_url blog/2019-10-27-laziness-in-japan %}) about exactly that. Your just there, existing, and being unproductive. Everyone has these days, they just happen from time to time. It's totally normal to have these days and one should take these days to rest and recover a little from the ever crushing weight that is called life. Just take the day off, be lazy and give in to all the things your mind is up to in that moment.

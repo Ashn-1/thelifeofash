@@ -9,6 +9,8 @@ tags: [concert, semester-abroad, Japan, Tokyo]
 
 This week was a bit slower and there is not that much to write about here. So after last weeks super post, this weeks blog post is going to be a bit shorter.
 
+<!-- more -->
+
 ## Survive Said the Prophet
 
 No that title is not one of my usual weird and incoherent titles that tries to explain the text below it in just a few words and that only I can decipher. It's actually the name of the band. 'Survive Said the Prophet' is a Japanese rock band. And they music is fucking fantastic. I love it. It's kinda Hardcore, has a good balance of clean vocals and screams and tasty bass lines. Nothing more I want from music.

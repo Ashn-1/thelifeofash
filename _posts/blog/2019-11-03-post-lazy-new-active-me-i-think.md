@@ -9,6 +9,8 @@ tags: [semester-abroad, Japan, Tokyo, Nikko, Odaiba]
 
 After the lazy debacle last week I couldn't do another week of doing nothing and being lazy. So this time I actually went out of my room and into the big and wonderful world.
 
+<!-- more -->
+
 ## Bringing Home the Bacon
 
 Last Thursday I was invited to lunch with the company I'm gonna start working for. It's actually the same company I worked for in Germany. Turns out they also have an office here in Japan, so my supervisor got me into the company here. The food was paid for by the company so I was extra happy going into lunch. Then I fucked up and ordered Curry Udon. Now you might ask yourself how this could potentially be a fuck up. See, Udon are pretty thick and slippery noodles. Combine this with the curry sauce they are in and you have a pretty messy combination, if you don't know how to properly eat it. I didn't. So I desperately tried to eat it in a way so the curry doesn't cover my whole shirt afterwards. I must have looked like a fucking idiot. Oh well. Gotta play the gaijin-card in such situations. I had a good meal, a good 

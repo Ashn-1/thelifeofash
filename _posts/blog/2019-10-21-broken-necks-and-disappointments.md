@@ -7,6 +7,8 @@ categories: [blog, travel]
 tags: [semester-abroad, Japan, Tokyo]
 ---
 
+<!-- more -->
+
 ## Music, Dancing and Broken Necks
 
 I was never really fan of going to a club for partying. IT definitely isn't the fact that there are a lot of drunkards running around. I am always one of them when I'm actually going to the club. No, rather it's the fact that I don't really like the type of music they play in the club. It's loud and annoying and just not my type of music. However, what other people get out of partying in the club, I get visiting concerts.

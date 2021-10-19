@@ -7,6 +7,8 @@ categories: [blog, travel]
 tags: [Japan, Tokyo, Akihabara, Kawagoe, semester-abroad]
 ---
 
+<!-- more -->
+
 ## The Aftermath
 
 The typhoon hit Tokyo in the night between the 8th and 9th September. Japan is equipped for these kind of severe weather, however, they kind of underestimated how long it would take to get everything running again. The usually pretty reliable public transportation had massive delays and cancellations and the Tokyo residents had to queue up in front of the station for several hours before they finally got into a crammed full train. Even at 11 am it was still a complete shit-show and the residents were completely pissed and rightly so. At least they fixed all problems during the day and everything ran smoothly again in the evening. That was definitely an experience.
