@@ -25,7 +25,7 @@ def publish_changes(testing, upload_all):
     """Finds all changed files by comparing their MD5 hash value with the hash computed at the last publishing.  
     """
     # Path to the file hashs file
-    current_hashs_path = "_build_tools/file_hash.yaml"
+    current_hashs_path = f"_build_tools/file_hash{'_aperture' if testing else ''}.yaml"
     # Tmp directory to hold all the changed files (used for the scp command)
     tmp_upload_dir = pathlib.Path("_build_tools/to_be_uploaded")
 
@@ -88,7 +88,7 @@ def publish_changes(testing, upload_all):
         logging.info("Done uploading")
         logging.info("Updating hash values...")
         current_hashs.update(update_files)
-        with open("_build_tools/file_hash.yaml", "w") as file:
+        with open(current_hashs_path, "w") as file:
             yaml.dump(current_hashs, file)
         logging.info("Done updating hash values")
 
