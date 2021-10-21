@@ -5,6 +5,7 @@
 _site
 .jekyll-cache
 _build_tools/file_hash.yaml
+_build_tools/to_be_uploaded/*
 
 # Ruby ignores
 !.github
