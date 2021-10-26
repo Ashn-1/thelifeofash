@@ -62,7 +62,7 @@ def publish_changes(testing, upload_all):
             # Add to update dict (path: hash)
             update_files[file_path] = digest
             # Copy file to tmp update directory
-            upload_directory = pathlib.Path("_build_tools\\to_be_uploaded\\" + str(file.relative_to("_site").parent))
+            upload_directory = pathlib.Path("_build_tools") / "to_be_uploaded" / str(file.relative_to("_site").parent)
             upload_directory.mkdir(exist_ok=True, parents=True)
             shutil.copy(file, upload_directory)
 
