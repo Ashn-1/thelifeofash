@@ -15,27 +15,10 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-compose
   - jekyll-target-blank
 
 # Jekyll Sitemap settings
 url: "https://thelifeofash.com"
-
-# Jekyll Compose settings
-jekyll_compose:
-  auto_open: true
-  default_front_matter:
-    drafts:
-      layout: post
-      author: Ash
-      categories: default
-      tags: personal
-      worktime: 0
-    posts:
-      author: Ash
-      categories: default
-      tags: personal
-      published: false
 
 # Jekyll Feed settings
 feed:
@@ -55,3 +38,4 @@ compress_html:
 # Files that should not be copied to the _site directory on build
 exclude:
   - PROGRESS.md
+  - README.md
