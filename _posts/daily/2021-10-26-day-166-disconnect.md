@@ -3,7 +3,7 @@ layout: post-daily
 title: 'Day 166: Disconnect'
 author: Ash
 categories: daily
-tags: [thought, favorite]
+tags: [favorite, thought]
 worktime: 44
 date: 2021-10-26 22:29 +0200
 ---
