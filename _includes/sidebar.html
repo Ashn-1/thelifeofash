@@ -1,22 +1,5 @@
 
 <!-- Side Navigation Bar -->
-<div class="sidebar content-box">
+<div class="sidebar content-box" id="sidebar">
     <h3 class="sidebar-header">Recent<br>Dailies (D) + Art (A)</h3>
-
-    {% assign daily_posts = site.posts | where: "categories", "daily" %}
-    {% assign art_posts = site.posts | where: "categories", "art" %}
-    {% assign sidebar_posts = daily_posts | concat: art_posts %}
-
-    {% for post in sidebar_posts limit:10 %}
-        <a href="{{ post.url }}" class="sidebar-item grey-link">
-            <span>
-                {% if post.categories[0] == "daily" %}
-                    <b>D</b>
-                {% else %}
-                    <b>A</b>
-                {% endif %}
-                {{ post.title }}
-            </span>
-        </a>
-    {% endfor %}
 </div>
