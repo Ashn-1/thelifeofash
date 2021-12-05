@@ -7,7 +7,7 @@ categories: art
 tags: [music, lyrics]
 ---
 
-{% include audio-player.html audio="/assets/res/poetry/2020-10-26-remember-those-times/remember-those-times.mp3" %}
+{% include audio-player.html audio="/assets/res/art/2020-10-26-remember-those-times/remember-those-times.mp3" %}
 
 > [Chorus: Ash]  
 > Ohh, can you  
