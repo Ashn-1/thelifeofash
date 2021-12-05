@@ -3,7 +3,7 @@
 
 {% assign daily_posts = site.posts | where: "categories", "daily" %}
 {% assign art_posts = site.posts | where: "categories", "art" %}
-{% assign sidebar_posts = daily_posts | concat: art_posts %}
+{% assign sidebar_posts = daily_posts | concat: art_posts | sort: "date" | reverse %}
 
 [
 {% for post in sidebar_posts limit:9 %}
