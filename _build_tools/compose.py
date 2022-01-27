@@ -20,7 +20,7 @@ def create_daily():
     draft_path = f"_posts/daily/{now.strftime('%Y-%m-%d')}-day-{current_day + 1}.md"
     draft_content = f"""---
 layout: post-daily
-title: 'Day {current_day + 1}: *'
+title: \"Day {current_day + 1}: *\"
 author: Ash
 categories: daily
 tags: [default, personal]
