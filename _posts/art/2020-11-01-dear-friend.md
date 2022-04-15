@@ -21,7 +21,9 @@ tags: [poetry, lyrics]
 > Chest heaving, I take my last breath  
 > I can't take it anymore  
 > Blood is dripping on the floor  
->   
+
+<!-- more -->
+
 > After all the time was gone  
 > Deceits and lies and victimhood  
 > And all the fucking shit you talked  

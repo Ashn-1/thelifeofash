@@ -2,12 +2,14 @@
 # Social links
 twitter-handle: its_lifeofash
 instagram-handle: its_lifeofash
+youtube-handle: UCTfIKRuj4GcoUif52nd541g
 
 # Website settings
 title: thelifeofash
 author: Ash
 favicon: 📝
 permalink: /:categories/:title/
+excerpt_separator: <!-- more -->
 
 # Jekyll settings
 markdown: kramdown

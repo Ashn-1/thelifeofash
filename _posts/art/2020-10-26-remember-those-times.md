@@ -17,7 +17,9 @@ tags: [music, lyrics]
 > Ohh, I can  
 > Ohh, I can  
 > Oh I can still remember those times!  
-> 
+
+<!-- more -->
+
 > [Verse: Ash]  
 > Ba-ck  
 > Back in the da-y  

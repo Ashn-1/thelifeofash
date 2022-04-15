@@ -13,8 +13,10 @@ tags: [poetry, lyrics]
 > Left my home, moved away  
 > I was only fourteen  
 > All my friends, back at home  
-> There was no one texting  
->   
+> There was no one texting
+
+<!-- more -->
+
 > Two years pass, get a call  
 > 'I wanted to tell you something  
 > Your best friend, he is dead  

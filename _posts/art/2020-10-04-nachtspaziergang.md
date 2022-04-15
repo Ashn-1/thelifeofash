@@ -11,7 +11,9 @@ tags: [poetry, lyrics]
 > We're two, so everything's alright  
 > Sincere, she looks right in my eye  
 > 'Why you always stay, 'till the middle of the night?'  
-> 
+
+<!-- more -->
+
 > I look at her, take a sip, watch the sky  
 > 'Everyone's home in their bed sleeping tight  
 > Holding their loved ones in the sleep, am I right?  

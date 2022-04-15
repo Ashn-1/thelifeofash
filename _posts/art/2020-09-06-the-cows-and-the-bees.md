@@ -12,3 +12,5 @@ Why I'm mooing you might ask
 Cause fucking cows is my task  
 
 ~ Billy the Bee
+
+<!-- more -->

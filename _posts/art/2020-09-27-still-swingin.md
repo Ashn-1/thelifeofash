@@ -10,7 +10,9 @@ tags: [poetry, lyrics]
 I'm sipping, my cold-ass beer oh no  
 I'm tripping, you spiked my beer, shit yo  
 I'm kidding, there is my homie Moe  
-> 
+
+<!-- more -->
+
 > 'Sup bro, wanna hang out some more  
 Sounds dope, play some tic tac toe  
 Ey yo, maybe some Dobble and dope?  
