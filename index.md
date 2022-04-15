@@ -19,16 +19,17 @@ Ash {% include socials.html %}
 
 - <a class="grey-link" href="/blog/"><span style="font-weight: bold;">Blog Post;</span></a> longer, more in-depth posts about a specific topic
 - <a class="grey-link" href="/story/"><span style="font-weight: bold;">Stories;</span></a> fictional stories
-- <a class="grey-link" href="/daily/"><span style="font-weight: bold;">Daily Entries;</span></a> short, braindumpy entries about something out of my life
 - <a class="grey-link" href="/art/"><span style="font-weight: bold;">Art;</span></a> poetry, music, drawings, and all other things artsy
+- <a class="grey-link" href="/daily/"><span style="font-weight: bold;">Daily Entries;</span></a> short, braindumpy entries about something out of my life
 
 ---
 
-## Blog Posts + Stories
+## Posts
 
 {% assign story_posts = site.posts | where: "categories", "story" %}
 {% assign blog_posts = site.posts | where: "categories", "blog" %}
-{% assign relevant_posts = story_posts | concat: blog_posts | sort: "date" | reverse %}
+{% assign art_posts = site.posts | where: "categories", "art" %}
+{% assign relevant_posts = story_posts | concat: blog_posts | concat: art_posts | sort: "date" | reverse %}
 
 {% for post in relevant_posts %}
 
