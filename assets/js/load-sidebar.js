@@ -9,15 +9,17 @@ function load_sidebar(url)
         .then(function (data) 
         {
             var sidebar_container = document.getElementById("sidebar");
-            for (var i = 0; i < data.length; i++) 
+            for (var i = 0; i < data.length; i++)
             {
                 var bold = document.createElement("b");
+                /*
                 if (data[i]["category"] == "daily")
                 {
                     bold.innerHTML = "D ";
                 } else {
                     bold.innerHTML = "A ";
                 }
+                */
 
                 var span = document.createElement("span");
                 span.appendChild(bold);

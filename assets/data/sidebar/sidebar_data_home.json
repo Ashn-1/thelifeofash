@@ -2,20 +2,17 @@
 ---
 
 {% assign daily_posts = site.posts | where: "categories", "daily" %}
-{% assign art_posts = site.posts | where: "categories", "art" %}
-{% assign sidebar_posts = daily_posts | concat: art_posts | sort: "date" | reverse %}
+{% assign sidebar_posts = daily_posts | sort: "date" | reverse %}
 
 [
 {% for post in sidebar_posts limit:9 %}
     {
         "title": "{{ post.title }}",
-        "url": "{{ post.url }}",
-        "category": "{{ post.categories[0] }}"
+        "url": "{{ post.url }}"
     }, 
 {% endfor %}
     {
         "title": "{{ sidebar_posts[9].title }}",
-        "url": "{{ sidebar_posts[9].url }}",
-        "category": "{{ sidebar_posts[9].categories[0] }}"
+        "url": "{{ sidebar_posts[9].url }}"
     }
 ]
