@@ -77,8 +77,7 @@ def publish_changes(testing, upload_all):
         logging.info(f"Found {len(update_files)} to upload (either new or modified)")
     
     # Target address, where all files are gonna be uploaded to
-    target_address = "wbwurqmy@thelifeofash.com:/home1/wbwurqmy/public_html"
-    if testing: target_address += "/aperture"
+    target_address = f"www.ashn1.com@ssh.strato.de:/{'aperture/' if testing else 'main/'}"
     logging.info(f"Upload address: {target_address}")
 
     # Upload files and then the hashs
