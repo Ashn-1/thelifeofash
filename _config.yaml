@@ -2,7 +2,7 @@
 # Social links
 twitter-handle: its_lifeofash
 instagram-handle: its_lifeofash
-youtube-handle: UCTfIKRuj4GcoUif52nd541g
+youtube-handle: "@ashn1"
 
 # Website settings
 title: thelifeofash
@@ -20,7 +20,7 @@ plugins:
   - jekyll-target-blank
 
 # Jekyll Sitemap settings
-url: "https://thelifeofash.com"
+url: "https://ashn1.com"
 
 # Jekyll Feed settings
 feed:
